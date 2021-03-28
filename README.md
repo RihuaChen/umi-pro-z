@@ -19,7 +19,7 @@ $ npm install -g umi-pro-z
 $ umi-pro-z COMMAND
 running command...
 $ umi-pro-z (-v|--version|version)
-umi-pro-z/0.0.1 darwin-x64 node-v14.16.0
+umi-pro-z/0.0.2 darwin-x64 node-v14.16.0
 $ umi-pro-z --help [COMMAND]
 USAGE
   $ umi-pro-z COMMAND
