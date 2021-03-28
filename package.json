@@ -1,7 +1,7 @@
 {
   "name": "umi-pro-z",
   "description": "An open source umi-pro version ~ Use umi as Pro !",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "rickyshin",
   "bin": {
     "umi-pro-z": "./bin/run"
