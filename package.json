@@ -6,7 +6,7 @@
   "bin": {
     "umi-pro-z": "./bin/run"
   },
-  "bugs": "https://github.com/personal/umi-pro-z/issues",
+  "bugs": "https://github.com/RihuaChen/umi-pro-z/issues",
   "dependencies": {
     "@oclif/command": "^1",
     "@oclif/config": "^1",
@@ -26,13 +26,13 @@
     "typescript": "^3.3"
   },
   "engines": {
-    "node": ">=8.0.0"
+    "node": ">=10.13.0"
   },
   "files": [
     "/bin",
     "/lib"
   ],
-  "homepage": "https://github.com/personal/umi-pro-z",
+  "homepage": "https://github.com/RihuaChen/umi-pro-z",
   "keywords": [
     "oclif"
   ],
@@ -41,7 +41,7 @@
   "oclif": {
     "bin": "umi-pro-z"
   },
-  "repository": "personal/umi-pro-z",
+  "repository": "RihuaChen/umi-pro-z",
   "scripts": {
     "posttest": "eslint . --ext .ts --config .eslintrc",
     "prepack": "rm -rf lib && tsc -b && oclif-dev readme",
