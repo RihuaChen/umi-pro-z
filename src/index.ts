@@ -33,7 +33,7 @@ class UmiProZ extends Command {
       });
     }
     const isEmpty = await isDirEmpty(process.cwd());
-    console.log("cwd       : " + process.cwd(), isEmpty);
+    console.log("current dir: " + process.cwd());
 
     if (!isEmpty) {
       this.error("Folder need to be empty");
